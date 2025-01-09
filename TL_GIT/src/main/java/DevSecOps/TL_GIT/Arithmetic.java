@@ -4,7 +4,7 @@ public class Arithmetic
 {
 	public static void main(String[] args)
 	{
-		//conflict2
+		//conflict2 created
 		int a= 5;
 		int b = 5;
 		
